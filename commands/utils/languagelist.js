@@ -111,7 +111,7 @@ const embed1 = new Discord.MessageEmbed()
     yi: Yiddish,\n
     yo: Yoruba,\n
     zu: Zulu\n
-};`)
+`)
 .setColor("RANDOM")
     const pages = [embed1, embed2];
 // Change pages when sending numbers.
